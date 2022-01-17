@@ -4,5 +4,5 @@ h1 {
 }
 nav.menu{
     text-align: center;
-    background-color: greenyellow;
+    background-color: greenyellow;inline-size: auto;
 }
