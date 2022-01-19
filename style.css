@@ -4,8 +4,12 @@ h1 {
 }
 nav.menu{
     text-align: center;
-    background-color: greenyellow;inline-size: auto;
+    background-color: greenyellow;display: block;;
 }
 p.taronja {
-    background-color: orange; inline-size: auto;
+    background-color: orange; display: block;
+}
+h3.t{
+    background-color: orange;
+
 }
