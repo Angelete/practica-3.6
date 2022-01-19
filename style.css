@@ -6,3 +6,6 @@ nav.menu{
     text-align: center;
     background-color: greenyellow;inline-size: auto;
 }
+p.taronja {
+    background-color: orange; inline-size: auto;
+}
